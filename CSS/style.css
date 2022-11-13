@@ -42,7 +42,7 @@ footer{
 }
 
 a.current{
-    color: red;
+    color: green;
 }
 
 img{
@@ -89,7 +89,7 @@ nav li {
     margin: 20px;
 }
 nav li a {
-    color: darkgreen;
+    color: black;
     text-decoration: none;
 }
 
