@@ -42,7 +42,7 @@ footer{
 }
 
 a.current{
-    color: yellow;
+    text-decoration: underline;
 }
 
 img{
